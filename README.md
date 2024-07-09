@@ -19,3 +19,8 @@ For displaying these counter as decimal digits, we used 7 segment displays and i
 ![maxresdefault](https://github.com/Uday-wi-100/Digital_Clock_Using_FPGA/assets/127099256/c37a88ac-e791-4abe-8b3b-7fdc3976f1ec)
 
 Here comes the tricky part,To use 4 displays we need 8x4=32 output pins, Zynq-7000 zedboard doesn't have these many pins :(. So we connected seven segment dispalys in couple with same pins, and switched on-off alternatively with high frequency such that toggling is not visible to human eyes. To set time we used board buttons,On turning on set button corresponding to any digit, it start counting with frequency 1 Hz, we can turn off set button at required time, and it starts counting from there with it's original frequnecy.
+
+# # Hardware Used:
+Zynq-7000 System-on-Chip (SoC) Zedboard
+4 seven-segment displays(2 common anode and 2 common cathode)
+
