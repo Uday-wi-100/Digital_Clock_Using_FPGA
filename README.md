@@ -23,4 +23,7 @@ Here comes the tricky part,To use 4 displays we need 8x4=32 output pins, Zynq-70
 # # Hardware Used:
 Zynq-7000 System-on-Chip (SoC) Zedboard
 4 seven-segment displays(2 common anode and 2 common cathode)
+![Digilent_Basys](https://github.com/Uday-wi-100/Digital_Clock_Using_FPGA/assets/127099256/dd018f8b-795a-46fb-a781-9587fb737d2f)
+
+![7segment](https://github.com/Uday-wi-100/Digital_Clock_Using_FPGA/assets/127099256/227dde55-728a-4d52-b676-e08553d09758)
 
