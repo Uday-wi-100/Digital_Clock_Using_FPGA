@@ -14,3 +14,6 @@ Hour Unit-digit with clock of frequency 1/3600 Hz, that counts from 0-3
 Hour Tenth-digit with clock of frequency 1/36000 Hz, that counts from 0-2
 
 For displaying these counter as decimal digits, we used 7 segment displays and implemented logic ac
+
+
+![maxresdefault](https://github.com/Uday-wi-100/Digital_Clock_Using_FPGA/assets/127099256/c37a88ac-e791-4abe-8b3b-7fdc3976f1ec)
